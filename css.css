@@ -456,14 +456,14 @@ html::-webkit-scrollbar-thumb{
 .footer .links a:hover{
     background: var(--main-color);
 }
-.footer .credits{
+.footer .credit{
     font-size: 2rem;
     color: #fff;
-   
     padding: 1.5rem;
 }
-.footer .credits span{
-    color:var(--main-color) ;
+
+.footer .credit a{
+    color: var(--main-color);
 }
 /* footer section fin------------------ */
 
